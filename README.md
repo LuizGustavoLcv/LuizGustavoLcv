@@ -1,7 +1,7 @@
 ## Olá! Me chamo Luiz Gustavo Lacerda
 
 - 👨‍🎓 Cursando Sistema de Informação
-- 👨‍💻 Trabalho na área de TI - Suporte e Infra
+- 👨‍💻 Desenvolvedor JR.
 - 🎲 Transição de carreira para área de dados.
 - 🚩 Serra-ES
 
